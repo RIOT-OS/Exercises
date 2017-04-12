@@ -1,4 +1,4 @@
-# Simple CoAP Server
+# String to Morse parser
 
 - difficulty: mid
 - complexity: low
