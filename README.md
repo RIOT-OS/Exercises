@@ -1,7 +1,4 @@
-# RIOT Exercises
-
-Collection of practical exercises, assignments, and tasks to become familiar
-with IoT technologies using Linux and RIOT-OS.
+# Exercises
 
 ## [Linux](Linux)
 Linux specific exercises and tasks to get familiar with IoT standard technologies and protocols. Many of them will also involve or require embedded IoT hardware, i.e., (sensor) nodes that run RIOT.
