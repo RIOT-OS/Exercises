@@ -33,7 +33,7 @@ Document _all_ your actions and findings.
 - for interop of RPL between Linux and RIOT-OS, uncomment in Makefile:
     `CFLAGS += -DGNRC_RPL_DODAG_CONF_OPTIONAL_ON_JOIN`
 
-[1]: https://github.com/smartuni/exercises/Linux/01_iot_node.md
+[1]: https://github.com/RIOT-OS/Exercises/blob/master/Linux/basics/iot_node.md
 [2]: https://github.com/smlng/unstrung/tree/pr/fix_update_child_route
 [3]: http://unique-local-ipv6.com/
 [4]: http://openlabs.co/store/Raspberry-Pi-802.15.4-radio

@@ -21,6 +21,6 @@ Document _all_ your actions and findings. Create an archive with your solution.
 
 ## References
 
-\[1\]: [https://github.com/RIOT-OS/Exercises/blob/master/RIOT/coap/01_coap_server.md](https://github.com/RIOT-OS/Exercises/blob/master/RIOT/coap/01_coap_server.md)
+\[1\]: [https://github.com/RIOT-OS/Exercises/blob/master/RIOT/networking/coap_server.md](https://github.com/RIOT-OS/Exercises/blob/master/RIOT/networking/coap_server.md)
 
 \[2\]: [https://github.com/zserge/jsmn](https://github.com/zserge/jsmn)

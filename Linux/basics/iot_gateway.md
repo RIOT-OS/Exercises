@@ -30,7 +30,7 @@ Document _all_ your actions and findings.
 - for all tests use default channel `26` and PAN ID `0x23`
 - the RIOT node should be flashed with `example/gnrc_networking`
 
-[1]: https://github.com/smartuni/exercises/Linux/basic/01_iot_node.md
+[1]: https://github.com/RIOT-OS/Exercises/blob/master/Linux/basics/iot_node.md
 [2]: https://github.com/linux-wpan/radvd
 [3]: http://unique-local-ipv6.com/
 [4]: http://openlabs.co/store/Raspberry-Pi-802.15.4-radio
