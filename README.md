@@ -13,6 +13,7 @@ RIOT specific exercises and tasks to get familiar with RIOT, the friendly operat
     - [shell_command_morse](RIOT/basics/shell_command_morse.md)
 - networking
     - [network_udp_stats](RIOT/networking/network_udp_stats.md)
+    - [udp_reflection_server](RIOT/networking/udp_reflection_server.md)
     - [coap_server](RIOT/networking/coap_server.md)
     - [coap_server_json](RIOT/networking/coap_server_json.md)
 - documentation
