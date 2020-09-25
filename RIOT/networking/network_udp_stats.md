@@ -50,4 +50,4 @@ Document _all_ your actions and findings. Create an archive with your solution.
 
 \[7\] [https://github.com/RIOT-OS/RIOT/blob/master/sys/net/gnrc/network_layer/ipv6/gnrc_ipv6.c](https://github.com/RIOT-OS/RIOT/blob/master/sys/net/gnrc/network_layer/ipv6/gnrc_ipv6.c)
 
-\[8\] [https://github.com/RIOT-OS/RIOT/blob/master/sys/shell/commands/sc_netif.c](https://github.com/RIOT-OS/RIOT/blob/master/sys/shell/commands/sc_netif.c)
+\[8\] [https://github.com/RIOT-OS/RIOT/blob/master/sys/shell/commands/sc_gnrc_netif.c](https://github.com/RIOT-OS/RIOT/blob/master/sys/shell/commands/sc_netif.c)
